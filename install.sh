@@ -14,4 +14,4 @@ echo "${NC}\n"
 apt install python2 python3
 clear
 figlet "All Packages Successfully installed"
-echo "${GREEN}[*] Now you can run script with command 'python3 script.py'"
+echo "${GREEN}[*] Now you can run script with command 'python2 script.py'"
