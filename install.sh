@@ -1,7 +1,7 @@
-if [[ $EUID -ne 0 ]]; then
-   echo "Error, please run this script as root user!"
-   exit 1
-fi
+#if [[ $EUID -ne 0 ]]; then
+   #echo "Error, please run this script as root user!"
+   #exit 1
+#fi
 RED='\033[0;31m'
 NC='\033[0m'
 GREEN="\e[32m"
