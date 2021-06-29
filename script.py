@@ -3,7 +3,7 @@ from datetime import datetime
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet StrongDDos")
 print("---------------------")
 print ("| Author: L0G1K404 |")
 print("---------------------")
