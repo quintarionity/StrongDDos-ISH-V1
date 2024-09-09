@@ -5,7 +5,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet StrongDDos")
 print("---------------------")
-print ("| Author: L0G1K404 |")
+print ("| Author: qntrnt |")
 print("---------------------")
 print
 ip = raw_input("IP Adress : ")
